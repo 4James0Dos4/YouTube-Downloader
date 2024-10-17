@@ -1,6 +1,4 @@
-Here’s a sample `README.md` for a proxy YouTube downloader with a graphical user interface:
 
----
 
 # YouTube Downloader GUI Proxy
 
