@@ -1,7 +1,7 @@
 
 # YouTube Downloader GUI Proxy
 
-![Preview of the YouTube Downloader GUI]([(https://raw.githubusercontent.com/4James0Dos4/YouTube-Downloader/refs/heads/main/gui.png))
+![Preview of the YouTube Downloader GUI]([https://raw.githubusercontent.com/4James0Dos4/YouTube-Downloader/refs/heads/main/gui.png)
 
 
 This is a proxy-based YouTube downloader with a graphical user interface. It allows users to download YouTube videos and audio files with ease. To make it work, you need to have certain dependencies in place, such as the FFmpeg suite and a designated folder for storing downloaded media.
